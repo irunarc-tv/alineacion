@@ -1,6 +1,6 @@
 1,Viriato
 2,Martínez
-3,García
+3,Martinez
 4,Iglesias
 5,Santos
 6,Vega
